@@ -1,0 +1,29 @@
+/* <!-- Informações sobre a licença GPL e o desenvolvedor -->
+<!--
+Desenvolvido por MarcusTechs
+Licenciado sob a Licença Pública Geral GNU (GPL)
+LinkedIn: https://www.linkedin.com/in/marcus-erick-874bba268
+GitHub: https://github.com/MarcusTechs
+--> */
+body {
+    background-color: black;
+    color: green;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  .button {
+    background-color: green;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
